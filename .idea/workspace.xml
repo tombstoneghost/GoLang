@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a1e3103-5662-4a5a-ab4f-09574226faa7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$USER_HOME$/sdk/go1.15.3" />
+  <component name="GoLibraries">
+    <option name="urls">
+      <list>
+        <option value="file://$PROJECT_DIR$" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jCNwaFfZFiyPqUPYiEvfQyEr7N" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/NinjaLevels" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="672" y="77" width="410" height="680" key="#GOPATH" timestamp="1603342426160">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="478" y="63" width="410" height="680" key="#GOPATH/0.31.1366.737@0.31.1366.737" timestamp="1603304660332" />
+    <state x="672" y="77" width="410" height="680" key="#GOPATH/0.31.1920.1049@0.31.1920.1049" timestamp="1603342426160" />
+    <state x="478" y="335" width="410" height="137" key="#GOROOT" timestamp="1603304496557">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state x="478" y="335" width="410" height="137" key="#GOROOT/0.31.1366.737@0.31.1366.737" timestamp="1603304496557" />
+    <state x="836" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603351576483">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="836" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.31.1920.1049@0.31.1920.1049" timestamp="1603351576483" />
+    <state x="655" y="216" width="434" height="487" key="FileChooserDialogImpl" timestamp="1603342420606">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="466" y="161" width="434" height="487" key="FileChooserDialogImpl/0.31.1366.737@0.31.1366.737" timestamp="1603304658056" />
+    <state x="655" y="216" key="FileChooserDialogImpl/0.31.1920.1049@0.31.1920.1049" timestamp="1603342420606" />
+  </component>
+</project>
