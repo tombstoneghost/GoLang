@@ -20,10 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a1e3103-5662-4a5a-ab4f-09574226faa7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NinjaLevels/Level_2/Exercise_4.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NinjaLevels/Level_2/Exercise_5.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NinjaLevels/Level_2/Exercise_6.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlFlow/Conditionals.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlFlow/Loops.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlFlow/PrintASCII.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +65,7 @@
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -88,6 +88,10 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ninja Level-2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ninja Level-2" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="672" y="77" width="410" height="680" key="#GOPATH" timestamp="1603342426160">
       <screen x="0" y="31" width="1920" height="1049" />
@@ -107,5 +111,17 @@
     </state>
     <state x="466" y="161" width="434" height="487" key="FileChooserDialogImpl/0.31.1366.737@0.31.1366.737" timestamp="1603304658056" />
     <state x="655" y="216" key="FileChooserDialogImpl/0.31.1920.1049@0.31.1920.1049" timestamp="1603342420606" />
+    <state x="449" y="193" width="1022" height="733" key="SettingsEditor" timestamp="1603972841133">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="449" y="193" width="1022" height="733" key="SettingsEditor/0.31.1920.1049@0.31.1920.1049" timestamp="1603972841133" />
+    <state x="555" y="294" width="810" height="531" key="Vcs.Push.Dialog.v2" timestamp="1603972851498">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="555" y="294" width="810" height="531" key="Vcs.Push.Dialog.v2/0.31.1920.1049@0.31.1920.1049" timestamp="1603972851498" />
+    <state x="1103" y="262" width="672" height="678" key="search.everywhere.popup" timestamp="1603977056607">
+      <screen x="0" y="31" width="1920" height="1049" />
+    </state>
+    <state x="1103" y="262" width="672" height="678" key="search.everywhere.popup/0.31.1920.1049@0.31.1920.1049" timestamp="1603977056607" />
   </component>
 </project>
