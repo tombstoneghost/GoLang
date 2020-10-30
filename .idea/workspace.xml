@@ -20,9 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a1e3103-5662-4a5a-ab4f-09574226faa7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/GroupingData/Arrays.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GroupingData/Maps.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GroupingData/Slices.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NinjaLevels/Level_4/Exercise_1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NinjaLevels/Level_4/Exercise_10.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NinjaLevels/Level_4/Exercise_2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NinjaLevels/Level_4/Exercise_3.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NinjaLevels/Level_4/Exercise_4.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NinjaLevels/Level_4/Exercise_5.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NinjaLevels/Level_4/Exercise_6.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NinjaLevels/Level_4/Exercise_7.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NinjaLevels/Level_4/Exercise_8.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NinjaLevels/Level_4/Exercise_9.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +99,8 @@
     <MESSAGE value="Ninja Level-2" />
     <MESSAGE value="Control Flow" />
     <MESSAGE value="Ninja Level-3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ninja Level-3" />
+    <MESSAGE value="Grouping Data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Grouping Data" />
   </component>
   <component name="WindowStateProjectService">
     <state x="672" y="77" width="410" height="680" key="#GOPATH" timestamp="1603342426160">
@@ -117,11 +125,11 @@
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
     <state x="449" y="193" width="1022" height="733" key="SettingsEditor/0.31.1920.1049@0.31.1920.1049" timestamp="1603972841133" />
-    <state x="395" y="216" width="810" height="531" key="Vcs.Push.Dialog.v2" timestamp="1603981199438">
-      <screen x="0" y="31" width="1366" height="737" />
+    <state x="555" y="294" width="810" height="531" key="Vcs.Push.Dialog.v2" timestamp="1604047960505">
+      <screen x="0" y="31" width="1920" height="1049" />
     </state>
     <state x="395" y="216" key="Vcs.Push.Dialog.v2/0.31.1366.737@0.31.1366.737" timestamp="1603981199437" />
-    <state x="555" y="294" width="810" height="531" key="Vcs.Push.Dialog.v2/0.31.1920.1049@0.31.1920.1049" timestamp="1603978560465" />
+    <state x="555" y="294" width="810" height="531" key="Vcs.Push.Dialog.v2/0.31.1920.1049@0.31.1920.1049" timestamp="1604047960505" />
     <state x="1103" y="262" width="672" height="678" key="search.everywhere.popup" timestamp="1603977056607">
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
