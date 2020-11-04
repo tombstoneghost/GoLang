@@ -20,11 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a1e3103-5662-4a5a-ab4f-09574226faa7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Concurrency/Atomic.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Concurrency/MethodSets.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Concurrency/Mutex.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Concurrency/WaitGroup.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NinjaLevels/Level_9/Exercise_1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NinjaLevels/Level_9/Exercise_2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NinjaLevels/Level_9/Exercise_3.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NinjaLevels/Level_9/Exercise_4.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NinjaLevels/Level_9/Exercise_5.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NinjaLevels/Level_9/Exercise_6.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,7 +109,8 @@
     <MESSAGE value="Ninja Level-7" />
     <MESSAGE value="Applications" />
     <MESSAGE value="Ninja Level-8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ninja Level-8" />
+    <MESSAGE value="Concurrency" />
+    <option name="LAST_COMMIT_MESSAGE" value="Concurrency" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -140,11 +142,11 @@
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
     <state x="449" y="193" width="1022" height="733" key="SettingsEditor/0.31.1920.1049@0.31.1920.1049" timestamp="1603972841133" />
-    <state x="555" y="294" width="810" height="531" key="Vcs.Push.Dialog.v2" timestamp="1604410028156">
+    <state x="555" y="294" width="810" height="531" key="Vcs.Push.Dialog.v2" timestamp="1604474562960">
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
     <state x="395" y="216" width="810" height="531" key="Vcs.Push.Dialog.v2/0.31.1366.737@0.31.1366.737" timestamp="1604230150539" />
-    <state x="555" y="294" width="810" height="531" key="Vcs.Push.Dialog.v2/0.31.1920.1049@0.31.1920.1049" timestamp="1604410028156" />
+    <state x="555" y="294" width="810" height="531" key="Vcs.Push.Dialog.v2/0.31.1920.1049@0.31.1920.1049" timestamp="1604474562960" />
     <state x="809" y="313" width="430" height="175" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604161010471">
       <screen x="0" y="31" width="1366" height="737" />
     </state>
