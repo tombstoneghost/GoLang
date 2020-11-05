@@ -20,9 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a1e3103-5662-4a5a-ab4f-09574226faa7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ErrorHandling/CheckingErrors.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ErrorHandling/Recover.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NinjaLevels/Level_11/Exercise_1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NinjaLevels/Level_11/Exercise_2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NinjaLevels/Level_11/Exercise_3.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NinjaLevels/Level_11/Exercise_4.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -110,7 +111,8 @@
     <MESSAGE value="Ninja Level-9" />
     <MESSAGE value="Channels" />
     <MESSAGE value="Ninja Level-10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ninja Level-10" />
+    <MESSAGE value="Error Handling" />
+    <option name="LAST_COMMIT_MESSAGE" value="Error Handling" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -142,11 +144,11 @@
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
     <state x="449" y="193" width="1022" height="733" key="SettingsEditor/0.31.1920.1049@0.31.1920.1049" timestamp="1603972841133" />
-    <state x="555" y="294" width="810" height="531" key="Vcs.Push.Dialog.v2" timestamp="1604574568493">
+    <state x="555" y="294" width="810" height="531" key="Vcs.Push.Dialog.v2" timestamp="1604578705053">
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
     <state x="395" y="216" width="810" height="531" key="Vcs.Push.Dialog.v2/0.31.1366.737@0.31.1366.737" timestamp="1604230150539" />
-    <state x="555" y="294" width="810" height="531" key="Vcs.Push.Dialog.v2/0.31.1920.1049@0.31.1920.1049" timestamp="1604574568493" />
+    <state x="555" y="294" width="810" height="531" key="Vcs.Push.Dialog.v2/0.31.1920.1049@0.31.1920.1049" timestamp="1604578705053" />
     <state x="809" y="313" width="430" height="175" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604161010471">
       <screen x="0" y="31" width="1366" height="737" />
     </state>
